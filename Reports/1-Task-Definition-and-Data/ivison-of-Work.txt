@@ -1,0 +1,5 @@
+Tianyi worked on the analysis of answers and wrote Section 2.2 of this report. She also wrote the high level task definition and collaborated with Yutian on defining the subtasks. 
+
+Senyu worked on the analysis of images and wrote Section 2.3 of this report. He also wrote the input and output representation. 
+
+Yutian worked on the analysis of questions and wrote Section 2.1 of this report. She also collaborated with Tianyi on writing the subtasks.
