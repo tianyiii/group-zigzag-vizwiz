@@ -1,0 +1,3 @@
+Tianyi run PYTHIA and LSTM+CNN models on Vizwiz datasets and calculated new metrics including validation accuracy. She also conducted image quality issue error analysis on LSTM+CNN's results. She wrote section 4.3.2 and half of section 4.2 of this report.
+
+Yutian run LXMERT on VizWiz datasets and also calculated the validation accuracy and average edit distance. She also conducted question error analysis on LXMERT, PYTHIA and LSTM+CNN's outputs. She wrote section 4.3.1 and half of section 4.2 of this report.
