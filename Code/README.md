@@ -1,3 +1,3 @@
-Please include all necessary code inside of this folder.  Additionally, update this readme with how to both train and test your model.
+The main code of the models are in the folder LXMERT and thee scripts to run the models are in lxmert_train.ipynb, TODO xxx. 
 
-`python train.py --lr 0.01 --data ../Data/`
+The accuracy calculation and error analysis are in lxmert_newdata_question_analysis.ipynb.
