@@ -1,0 +1,3 @@
+Tianyi worked on implementing the LSTM+CNN classifier and also its fusion with the main VQA model. She also worked on the LSTM+CNN related sections in the report.
+Senyu Tong worked on implementing the Bert classifier and also its fusion with the main model. He also implemented the joint learning of LXMERT. He wrote the experiment results, analysis and future work of this report.
+Yutian Zhao worked on implementing the LXMERT classifier and independent learning of our task. She wrote the LXMERT classifier's related sections of this report.
